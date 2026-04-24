@@ -63,10 +63,15 @@ Click the link above to start practicing!
 ## Features 📚
 
 🔊 TTS listening
+
 🤖 AI-generated quizzes
+
 🧠 Personalized feedback
+
 📺 YouTube-based extended learning
+
 📝 Vocabulary & grammar practice
+
 📊 Level-based reading system
 
 ## Motivation 📚
