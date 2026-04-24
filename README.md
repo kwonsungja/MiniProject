@@ -55,10 +55,6 @@ Step 6: Extend learning with recommended videos
 * Integration of TTS and AI tools
 * Testing and refinement
 
-## App Link 💮
-Access the app here: Mini-Project: APP Learning Plan
-Click the link above to start practicing!
-
 ## Features 💮
 
 🔊 TTS listening
