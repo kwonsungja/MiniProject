@@ -18,34 +18,34 @@ Step 6: Extend learning with recommended videos
 * Learning Mode: Self-paced + interactive learning
 * AI Support: Quiz generation & personalized feedback
 
-### Subject 💮
+## Subject 💮
 * English (EFL Reading, Listening, Vocabulary, Grammar)
   
-### Data Introduction 💮
+## Data Introduction 💮
 * Reading passages tailored to high school level
 * Vocabulary lists extracted from passages
 * AI-generated quizzes (comprehension, grammar, vocabulary)
 * External resources (e.g., YouTube recommendations)
 
-### Aims & Objectives 💮
+## Aims & Objectives 💮
 * Improve reading comprehension skills
 * Enhance listening ability through TTS
 * Strengthen vocabulary knowledge
 * Develop grammar awareness in context
 * Promote autonomous learning
 
-#### Rules Covered 💮
+## Rules Covered 💮
 * Present tense / subject-verb agreement
 * Basic sentence structure
 * Vocabulary in context
 * Reading strategies (main idea, detail, inference)
 
-#### Challenge 💮
+## Challenge 💮
 * Address different proficiency levels in one classroom
 * Maintain student motivation
 * Provide immediate and meaningful feedback
 
-#### Outcome 💮
+## Outcome 💮
 * Increased learner engagement
 * Improved comprehension and vocabulary retention
 * More personalized learning experience
