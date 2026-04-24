@@ -1,39 +1,75 @@
 # 🍇 Mini-Project: APP Learnig Plan
 
 ## Overview
-This application is designed to assist middle and high school beginners in learning the basic rules for forming regular plural nouns in English.
+This app is a level-based English reading learning tool designed for high school freshmen (EFL learners).
+It allows students to select reading passages and engage in integrated learning through listening, vocabulary, grammar, and comprehension activities supported by AI.
+
+## App Learning Plan
+Step 1: Select a reading passage based on level
+Step 2: Listen to the passage using TTS
+Step 3: Learn key vocabulary through quizzes
+Step 4: Practice comprehension and grammar questions
+Step 5: Receive AI-generated feedback
+Step 6: Extend learning with recommended videos
 
 ## Documentation
+Platform: Streamlit-based web application
+Target Users: High school 1st grade students
+Learning Mode: Self-paced + interactive learning
+AI Support: Quiz generation & personalized feedback
+
 ### Subject
-* Target Audience: Middle and high school beginner-level students.
+* English (EFL Reading, Listening, Vocabulary, Grammar)
+  
 ### Data Introduction
-* Identifying nouns that end with -s, -ss, -sh, -ch, -x, -z, -o, or -y in middle and high school textbooks can be challenging.
-* To simplify learning, basic and simple nouns are applied instead.
-### Aims
-#### Objective: To enhance understanding and application of the basic rules for forming regular plural nouns.
-#### Rules Covered:
-1. Add -s to the singular noun (e.g., cat → cats).
-2. Add -es to nouns ending in -s, -ss, -sh, -ch, -x, -z, or -o (e.g., box → boxes).
-3. For nouns ending in -y preceded by a consonant, change -y to -ies (e.g., baby → babies).
-#### Challenge: Students often struggle to determine whether to use -s, -es, or -ies after singular nouns.
+* Reading passages tailored to high school level
+* Vocabulary lists extracted from passages
+* AI-generated quizzes (comprehension, grammar, vocabulary)
+* External resources (e.g., YouTube recommendations)
+
+### Aims & Objectives
+Improve reading comprehension skills
+Enhance listening ability through TTS
+Strengthen vocabulary knowledge
+Develop grammar awareness in context
+Promote autonomous learning
+
+#### Rules Covered
+Present tense / subject-verb agreement
+Basic sentence structure
+Vocabulary in context
+Reading strategies (main idea, detail, inference)
+
+#### Challenge
+Address different proficiency levels in one classroom
+Maintain student motivation
+Provide immediate and meaningful feedback
+
 #### Outcome:
-* By learning these rules, students can resolve noun agreement issues and improve their understanding of plural noun formation.
-* The interactive nature of the app encourages participation, boosting motivation and interest in learning English.
+* Increased learner engagement
+* Improved comprehension and vocabulary retention
+* More personalized learning experience
+* 
 ## Process
-1. Select a Singular Noun: Choose any noun from the shuffled list.
-2. Type the Plural Form: Input the plural form of the selected noun.
-3. Check Your Answer: Receive feedback and view your score.
-4. Practice: After practicing with twenty nouns, click the "Finish" button to complete the session.
+Needs analysis → App design → Content development
+Integration of TTS and AI tools
+Testing and refinement
+
 ## Usage
 ### App Link
-Access the app here: Final-Project: APP Learning Plan
+Access the app here: Mini-Project: APP Learning Plan
 Click the link above to start practicing!
+
 ## Features
-* Interactive Learning: Engage actively in forming plural nouns with instant feedback.
-* Score Tracking: Monitor your progress with real-time scoring.
-* User-Friendly Interface: Designed for beginners with a simple and intuitive layout.
+🔊 TTS listening
+🤖 AI-generated quizzes
+🧠 Personalized feedback
+📺 YouTube-based extended learning
+📝 Vocabulary & grammar practice
+📊 Level-based reading system
+
 ## Motivation
-This app aims to make learning English more engaging and accessible for students. Through interactive exercises, learners can build confidence and foster a deeper interest in the English language.
+This project was developed to solve common challenges in EFL classrooms, such as limited individualized instruction and lack of interactive learning tools. It aims to create a more engaging, student-centered learning environment using AI technology.
 
 ### 🌱 App Link and QR Code
 
