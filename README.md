@@ -5,11 +5,17 @@ This app is a level-based English reading learning tool designed for high school
 It allows students to select reading passages and engage in integrated learning through listening, vocabulary, grammar, and comprehension activities supported by AI.
 
 ## App Learning Plan 💮
+
 Step 1: Select a reading passage based on level
+
 Step 2: Listen to the passage using TTS
+
 Step 3: Learn key vocabulary through quizzes
+
 Step 4: Practice comprehension and grammar questions
+
 Step 5: Receive AI-generated feedback
+
 Step 6: Extend learning with recommended videos
 
 ## Documentation 💮
