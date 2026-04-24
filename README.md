@@ -74,4 +74,4 @@ Click the link above to start practicing!
 ### App Link and QR Code 💮
 Access the app using the link below or scan the QR code to get started!
 👉 **[Open App](https://miniproject-7xx9z2n9e35xhxyzygdyj7.streamlit.app/Class_apps/)**
-👉 [![Open App QR Code](QR_code.png)](https://miniproject-7xx9z2n9e35xhxyzygdyj7.streamlit.app/Class_apps/)
+👉 [![Open App QR Code](images/QR_code.png)](https://miniproject-7xx9z2n9e35xhxyzygdyj7.streamlit.app/Class_apps/)
