@@ -72,8 +72,6 @@ Click the link above to start practicing!
 * This project was developed to solve common challenges in EFL classrooms, such as limited individualized instruction and lack of interactive learning tools. It aims to create a more engaging, student-centered learning environment using AI technology.
 
 ### App Link and QR Code 💮
-
 Access the app using the link below or scan the QR code to get started!
-
 👉 **[Open App](https://miniproject-7xx9z2n9e35xhxyzygdyj7.streamlit.app/Class_apps/)**
-- ![QR Code for the App](https://github.com/kwonsungja/Final-Project/blob/main/images/qr_nouns.png)
+👉 [![Open App QR Code](QR_code.png)](https://miniproject-7xx9z2n9e35xhxyzygdyj7.streamlit.app/Class_apps/)
