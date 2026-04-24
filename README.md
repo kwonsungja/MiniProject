@@ -61,6 +61,7 @@ Access the app here: Mini-Project: APP Learning Plan
 Click the link above to start practicing!
 
 ## Features 📚
+
 🔊 TTS listening
 🤖 AI-generated quizzes
 🧠 Personalized feedback
