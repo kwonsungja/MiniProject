@@ -1,5 +1,4 @@
-# MiniProject
-# 🍇 Final-Project: APP Learnig Plan
+# 🍇 Mini-Project: APP Learnig Plan
 
 ## Overview
 This application is designed to assist middle and high school beginners in learning the basic rules for forming regular plural nouns in English.
