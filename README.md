@@ -75,5 +75,5 @@ Click the link above to start practicing!
 
 Access the app using the link below or scan the QR code to get started!
 
-**App Link** [Mini-Project: APP Learning Plan]([https://miniproject-7xx9z2n9e35xhxyzygdyj7.streamlit.app/Class_apps/)
+👉 **[Open App](https://miniproject-7xx9z2n9e35xhxyzygdyj7.streamlit.app/Class_apps/)**
 - ![QR Code for the App](https://github.com/kwonsungja/Final-Project/blob/main/images/qr_nouns.png)
