@@ -1,10 +1,10 @@
-# 🌐 Mini-Project: APP Learnig Plan
+# 📚 Mini-Project: APP Learnig Plan 📚
 
-## Overview 📚
+## Overview 💮
 This app is a level-based English reading learning tool designed for high school freshmen (EFL learners).
 It allows students to select reading passages and engage in integrated learning through listening, vocabulary, grammar, and comprehension activities supported by AI.
 
-## App Learning Plan 📚
+## App Learning Plan 💮
 Step 1: Select a reading passage based on level
 Step 2: Listen to the passage using TTS
 Step 3: Learn key vocabulary through quizzes
@@ -12,7 +12,7 @@ Step 4: Practice comprehension and grammar questions
 Step 5: Receive AI-generated feedback
 Step 6: Extend learning with recommended videos
 
-## Documentation 📚
+## Documentation 💮
 * Platform: Streamlit-based web application
 * Target Users: High school 1st grade students
 * Learning Mode: Self-paced + interactive learning
@@ -50,17 +50,16 @@ Step 6: Extend learning with recommended videos
 * Improved comprehension and vocabulary retention
 * More personalized learning experience
  
-## Process 📚
+## Process 💮
 * Needs analysis → App design → Content development
 * Integration of TTS and AI tools
 * Testing and refinement
 
-## Usage 📚
-### App Link 💮
+## App Link 💮
 Access the app here: Mini-Project: APP Learning Plan
 Click the link above to start practicing!
 
-## Features 📚
+## Features 💮
 
 🔊 TTS listening
 
@@ -74,7 +73,7 @@ Click the link above to start practicing!
 
 📊 Level-based reading system
 
-## Motivation 📚
+## Motivation 💮
 * This project was developed to solve common challenges in EFL classrooms, such as limited individualized instruction and lack of interactive learning tools. It aims to create a more engaging, student-centered learning environment using AI technology.
 
 ## 📱 App Link and QR Code 🌸
