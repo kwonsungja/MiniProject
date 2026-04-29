@@ -80,10 +80,10 @@ Step 6: Extend learning with recommended videos
 
 ## 📱 App Link and QR Code 🌸
 Access the app using the link below or scan the QR code to get started!
-👉 **[Open App](https://miniproject-7xx9z2n9e35xhxyzygdyj7.streamlit.app/Class_apps/)**
+👉 **[Open App](https://miniproject-7xx9z2n9e35xhxyzygdyj7.streamlit.app/)**
 <br>
 <p align="center">
-  <a href="https://miniproject-7xx9z2n9e35xhxyzygdyj7.streamlit.app/Class_apps/">
+  <a href="https://miniproject-7xx9z2n9e35xhxyzygdyj7.streamlit.app//">
     <img src="images/QR_code.png" width="200">
   </a>
 </p>
